@@ -1,0 +1,31 @@
+\documentclass[12pt,a4paper,openany,oneside]{article}
+
+\include{settings}
+
+
+\begin{document}
+	
+	%\sloppy
+	
+	\pagenumbering{Roman}
+	% cover page
+	\include{cover}
+	\sXiaosi
+%	\tableofcontents
+	\include{content/abstract}
+	\include{content/introduction}
+	
+	
+	% 参考文献设置
+	\clearpage
+	\phantomsection
+	\addcontentsline{toc}{chapter}{\fHei 参考文献}
+	% npu专用
+	% \bibliographystyle{nputhesis}
+	% GB专用
+	% \bibliographystyle{GBT7714-2005NLang}
+	
+	% 参考文献位置
+	\bibliography{references/reference}
+	
+\end{document}
