@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2015.10.12)  2 JAN 2018 14:32
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2015.10.12)  2 JAN 2018 15:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1993,6 +1993,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--7
 
 File: pic/university_text_logo.pdf Graphic file (type QTm)
 <use  "pic/university_text_logo.pdf" >
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'SimSun(1)' created for font 'SimSun' with options
+. [Mapping=tex-text,Script={CJK},AutoFakeBold={4},AutoFakeSlant={0.167}].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"SimSun/OT:script=hani;language=DFLT;mapping=tex-text;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. and font adjustment code:
+. 
+. 
+. * 'bold' with NFSS spec.:
+. <->"SimSun/OT:script=hani;language=DFLT;mapping=tex-text;embolden=4;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. and font adjustment code:
+. 
+. 
+. * 'italic' with NFSS spec.:
+. <->"SimSun/OT:script=hani;language=DFLT;mapping=tex-text;slant=0.167;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. and font adjustment code:
+. 
+. 
+. * 'bold italic' with NFSS spec.:
+. 
+. <->"SimSun/OT:script=hani;language=DFLT;mapping=tex-text;embolden=4;slant=0.1
+67;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. and font adjustment code:
+. 
+.................................................
+
 Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
@@ -2082,11 +2125,11 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 31.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 31.
  ) 
 Here is how much of TeX's memory you used:
- 39399 strings out of 493706
- 755854 string characters out of 6148912
+ 39416 strings out of 493706
+ 756459 string characters out of 6148912
  835396 words of memory out of 5000000
- 42172 multiletter control sequences out of 15000+600000
- 19842 words of font info for 116 fonts, out of 8000000 for 9000
+ 42187 multiletter control sequences out of 15000+600000
+ 19850 words of font info for 117 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  59i,12n,71p,10443b,552s stack positions out of 5000i,500n,10000p,200000b,80000s
 
